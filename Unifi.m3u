@@ -1,0 +1,554 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg-my.netlify.app/unifi.xml"
+
+#EXTINF:-1 tvg-id="Inspirasi" tvg-logo="", Inspirasi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"G8S9Z5Q9qerhQq9x4xcnrw","kid":"WwpceCI5S/qlHOPErPuKjVpyKTFrNg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/inspirasi
+
+#EXTINF:-1 tvg-id="Sensasi:" tvg-logo="", Sensasi:
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7batvjFgkibnN+UVuoExaQ","kid":"WwpceCI2uicAJvCksplWrOUTNfsaYw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/sensasi
+
+#EXTINF:-1 tvg-id="DEGUP" tvg-logo="", DEGUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"whs2mRspkoqA3AoUa+6skA","kid":"WwpceCJhFiO3ZuS0jriM6inhwwnMNw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/degup
+
+#EXTINF:-1 tvg-id="TV1" tvg-logo="", TV1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XHhbXQ","kid":"XHhbXQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tv1
+
+#EXTINF:-1 tvg-id="TV2" tvg-logo="", TV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XHhbXQ","kid":"XHhbXQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tv2
+
+#EXTINF:-1 tvg-id="TV3" tvg-logo="", TV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PWOFXKXN/Pt2XzBrmLzGRg","kid":"WwpceCJj5DZBoGGkT7nZXZhs/JpoZg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tv3
+
+#EXTINF:-1 tvg-id="Didik TV KPM" tvg-logo="", Didik TV KPM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lanf1UO4l/jt6/bbMod9eQ","kid":"WwpceCI2+b0AMEo0lyqA5f95r/mCZg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/didiktv
+
+#EXTINF:-1 tvg-id="8TV" tvg-logo="", 8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"chr2a5w+jEFmuLRYbR++/Q","kid":"WwpceCJkocsk9V20rhsyMZw2WSBTOQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/8tv
+
+#EXTINF:-1 tvg-id="TV9" tvg-logo="", TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQYFw9lzT3d36cRv5aaxdg","kid":"WwpceCJl6ggow410QHpcOErXMNciNA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tv9
+
+#EXTINF:-1 tvg-id="Salam HD" tvg-logo="", Salam HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l0g5/Vg5Ok4WsH1wJ7BYaA","kid":"WwpceCIzKy5xdhr0ZBkA+H3wPEjLMg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/salamhd
+
+#EXTINF:-1 tvg-id="TV AlHijrah HD" tvg-logo="", TV AlHijrah HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6xInYLutAYl0aJzhNyvOJg","kid":"WwpceCJmNmXOCfy0kilgLUXR1b5NNA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tvalhijrahhd
+
+#EXTINF:-1 tvg-id="SIAR" tvg-logo="", SIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JKzUn6iqalUy3QRbqx9T5A","kid":"WwpceCI1SJ9YxkrUDbpHHIscJpPiYQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/siar
+
+#EXTINF:-1 tvg-id="TV Sarawak" tvg-logo="", TV Sarawak
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uc59xhajmH4riQDORHNbBw","kid":"WwpceCJm5sQ5YeqEAejovCEbEZeWMQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tvs
+
+#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-logo="", Dunia Sinema HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l1pIPfQiRV28KaHYPtbxVA","kid":"WwpceCIwGhdiVwHkc0sCqiLIZXvWZg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/duniasinemahd
+
+#EXTINF:-1 tvg-id="PESONA" tvg-logo="", PESONA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gEEZsSj1/lHbo3HRizxwxQ","kid":"WwpceCJkaiIRz/lUWXn28aCYUfpJNQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/pesonahd
+
+#EXTINF:-1 tvg-id="tvN Movies HD" tvg-logo="", tvN Movies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qjUT3wvC2UnuRMUiBGZdUA","kid":"WwpceCI1JIC2ZRwkPitIsEqz7PBeYw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tvnmovieshd
+
+#EXTINF:-1 tvg-id="tvN HD" tvg-logo="", tvN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SZudH4kEzmlOeVPJokChg","kid":"WwpceCI5Jf4SZtt0SjuVJKI6bMUkYg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tvnhd
+
+#EXTINF:-1 tvg-id="TVB Jade" tvg-logo="", TVB Jade
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aCc2Vnvl8sCgrmEg0GpZ1w","kid":"WwpceCI5ind3xEnkEflaNEGgFLQ8Yg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tvbjade
+
+#EXTINF:-1 tvg-id="TVB Xing He" tvg-logo="", TVB Xing He
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JIyE5w/TYORQBnYLqtEuzA","kid":"WwpceCJmRUjOaacUlHt8w5emTjETOQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/tvbxinghe
+
+#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="", CCTV-4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ApxyV2kXXmoHObBz5KcLvw","kid":"WwpceCI2H1a6yNbU6BjEy/uQmaveNg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/cctv4hd
+
+#EXTINF:-1 tvg-id="Phoenix Hong Kong Channel" tvg-logo="", Phoenix Hong Kong Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vdjv8O/0dddLber4xcfvaQ","kid":"WwpceCI1+c43AiekYEgCJ/VKMRM6Mg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/phoenixhongkong
+
+#EXTINF:-1 tvg-id="SETI" tvg-logo="", SETI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/4P6++9X4k/GJqn1icodqQ","kid":"WwpceCI50mfeKoGEaDvY3p/2p2GyYQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/seti
+
+#EXTINF:-1 tvg-id="Celestial Movies" tvg-logo="", Celestial Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BEr1ueAlji05Q37gM2X9LQ","kid":"WwpceCIxB+E7ITqUpsu20CwlZTwIMw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/celestialmovies
+
+#EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-logo="", Celestial Classic Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zauawHlVp6LqeLAzQ7d/vQ","kid":"WwpceCI13MewCt10Vhn/HdKax+WRYw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/celestialclassicmovies
+
+#EXTINF:-1 tvg-id="Zee Thirai" tvg-logo="", Zee Thirai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mXYzcPB2Ow9xGaqwkcxwyA","kid":"WwpceCJi1ygukg5UN6mx8BvG+BeVYw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/zeethirai
+
+#EXTINF:-1 tvg-id="Sony YAY!" tvg-logo="", Sony YAY!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wPVQg5sjVENyTNAHOStuQA","kid":"WwpceCI1gunjgssElYhq+6vb22+/Nw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/sonyyay
+
+#EXTINF:-1 tvg-id="ZEE Tamil HD" tvg-logo="", ZEE Tamil HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8CxA0gBuA2EE93JhFoYdfA","kid":"WwpceCIwbhgxum+UZWi96mLmfKcxNw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/zeetamilhd
+
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="", Zee Cinema HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t8Twq4vAvU3qvnPPdd+lNw","kid":"WwpceCIyL9/PXLME62suu+y8qcnRMA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/zeecinemahd
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="", HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cYcWxDWRSQHSVRkwolaXTg","kid":"WwpceCI3rYiO5d1klqjCx3pihP+TNg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/hbohd
+
+#EXTINF:-1 tvg-id="HBO Hits" tvg-logo="", HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6VBz9xrxD4UGfF2LxQn2Zw","kid":"WwpceCI0N6So37MU+BiDx4lMmecrZg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/hbohits
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="", HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O2Me8GwngoCKbVP/DiTZ4w","kid":"WwpceCI5joJV+um0GuuzNGRakWyCYg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/hbofamily
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="", Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HqU8JHsRXWw7s3pNBIWjfA","kid":"WwpceCJigzkcD3xkFCuqMmsQHJ89NA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/cinemax
+
+#EXTINF:-1 tvg-id="HITS Movies" tvg-logo="", HITS Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"txz6RZCFPqYwFOEo7NtPvg","kid":"WwpceCI3TsuSnNUEFDu2i9Dnysb0ZQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/hitsmovies
+
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-logo="", Warner TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sCII6mGizb9bCUQLwxV/BA","kid":"WwpceCI29Op75Fr0J1qNdoRfsZ26NQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/warnertv
+
+#EXTINF:-1 tvg-id="HITS NOW" tvg-logo="", HITS NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lGmrGD+WWJTgOOLBN/D6oA","kid":"WwpceCI0w1AjLVD0bct3bqbRL4ddMg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/hitsnow
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="", AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xn9uIeu9Ug4x1BQbdx04Zw","kid":"WwpceCI0NFNA2S1keIvvfZlZTL5kMw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/axn
+
+#EXTINF:-1 tvg-id="HITS" tvg-logo="", HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hiBkw/vV9NLoqee4mImgaw","kid":"WwpceCIxlrARMG0ErDjCuEk7iaQNNQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/hits
+
+#EXTINF:-1 tvg-id="K Plus" tvg-logo="", K Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F2iXr7B54Mx2vJEt9MsLbg","kid":"WwpceCI4Juf9LWoUBgv+qTR9lviCNA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/kplus
+
+#EXTINF:-1 tvg-id="Animax" tvg-logo="", Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+Msk5U1VU4GjJsFXtd+qWQ","kid":"WwpceCI0vTDlRXEUTrkWihp+WRX3NQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/animax
+
+#EXTINF:-1 tvg-id="ROCK Entertainment HD" tvg-logo="", ROCK Entertainment HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nrMWVkUj+uz31bL++AgQBw","kid":"WwpceCI2u+MNx9eUmEm6DE8quyo/Zg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/rockentertainment
+
+#EXTINF:-1 tvg-id="Rock Action HD" tvg-logo="", Rock Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Lz9fHGCcESAhbU1yN30awg","kid":"WwpceCJjZM+RFQXkLIqheGmuUSBrYQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/rockaction
+
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="", BBC Earth HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1foOxoxqfIbBn2MM/TU2Bg","kid":"WwpceCI1OBuAVUR0TYtjRN5WTTJ/NQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/bbcearthhd
+
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="", Love Nature HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZQTT4EqSp9DQ02gY9HfK5A","kid":"WwpceCIzryQH+TZkJyorDCS+NjLZMw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/lovenaturehd
+
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="", HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VRzFvmggpbRNCZ3HrOF38A","kid":"WwpceCIxQ8U3pTO05TpxN3A7ySwPMg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/hgtv
+
+#EXTINF:-1 tvg-id="BBC Lifestyle HD" tvg-logo="", BBC Lifestyle HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EuiqrP8Pwr14AFilxog6HA","kid":"WwpceCIyYQxlvyd0Din5zEHcNUl4MQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/bbclifestylehd
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-logo="", Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u9MZ02wXKKjkzGu0qK0S9A","kid":"WwpceCJkb2lhHp6UoculkfhVsZE2Mg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/asianfoodnetwork
+
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-logo="", DreamWorks HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HS12dB6CXlx7q/WXN0sBbg","kid":"WwpceCJljONe2Lw0dyq+3WM4OqEbNw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/dreamworkshd
+
+#EXTINF:-1 tvg-id="Moonbug Kids" tvg-logo="", Moonbug Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1Nxi4R3RhW7U+aJtRCcdCw","kid":"WwpceCJjMYlFezi07ZiIxaLnY/CrOA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/moonbugkids
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="", Nick Jr.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jnxva+sHTxU9obAMPPlZCA","kid":"WwpceCJm5gOF2pPkjNqdzixoaGJGMg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/nickjr
+
+#EXTINF:-1 tvg-id="Cbeebies HD" tvg-logo="", Cbeebies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1IxhBEzvUa2zO/aZnyPpZw","kid":"WwpceCJjxb29Ak/kVrpmE0ceSTEEMQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/cbeebieshd
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="", Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fX03k+RIn268UNAC5L29RA","kid":"WwpceCI5sQ54f6yE/0hMjH1/dmiSNQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/nickelodeon
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="", Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aIwAFaa0hj8GY/JfQgNoAA","kid":"WwpceCIy2iZ1xto0JTs3YxjvNQzxOQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/cartoonnetwork
+
+#EXTINF:-1 tvg-id="BBC World News HD" tvg-logo="", BBC World News HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9CKGHClUL+NMhmsc0pH0EQ","kid":"WwpceCIwKC9cw4lEv1jY/dmrwxIzOQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/bbcworldnewshd
+
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="", Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oFyhCFGmHCkzJDtxab5meQ","kid":"WwpceCJiXAZ42tCEUelVpT7pWv8wZg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/aljazeera
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="", CGTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u49yyWBlVcpLOGuurMMPsA","kid":"WwpceCJkZ9WF7yq08ciPM1IOsG+nNw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/cgtnhd
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="", CNA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6zgY4rvA5xz8jBWrdh3gQ","kid":"WwpceCI1XaO3oEs02Tos4MTj0zpsZA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/channelnewsasia
+
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="", Euronews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ncWxTafDwNidY72SQsLasA","kid":"WwpceCI2f0lIza+kbrvXHq6HUjcCMw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/euronews
+
+#EXTINF:-1 tvg-id="Bernama TV" tvg-logo="", Bernama TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6UUfIU32Mf+rUSNKpWHxw","kid":"WwpceCIwxYi9FKEEnuoE257qgObGOA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/bernamatv
+
+#EXTINF:-1 tvg-id="Parlimen Malaysia" tvg-logo="", Parlimen Malaysia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CGwK1w2Qu9njlHjdDCRgsA","kid":"WwpceCJkzmyzOJAUaEsqvIL2pHi/Zg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/parlimenmalaysia
+
+#EXTINF:-1 tvg-id="ABC Australia" tvg-logo="", ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HbddLlT/UoBthK9kSZaF/w","kid":"WwpceCJhY0nSFlUU+jj7bxNIZ5ujNg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/abcaustralia
+
+#EXTINF:-1 tvg-id="DW" tvg-logo="", DW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HzJq8WRflsCZOxQuV9uatw","kid":"WwpceCI2jS3suXsUN/spkiMziSwuOA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/dw
+
+#EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-logo="", NHK WORLD-JAPAN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCYXx3t4eyQDCFZ/HwTfIA","kid":"WwpceCJi0eRztPrEwTtr1zAUoU30ZQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/nhkworldjapan
+
+#EXTINF:-1 tvg-id="Unifi Sports 1" tvg-logo="", Unifi Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvhCua1TFaAddlW4tQIZbw","kid":"WwpceCI5DH611mtEKppZF3XMEVS8OQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/unifisports1
+
+#EXTINF:-1 tvg-id="SPOTV" tvg-logo="", SPOTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Hxqfws3pAkDQeY4D/hQYA","kid":"WwpceCI1tZO9Uw8UA6jz65ss2SNsOA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/spotv
+
+#EXTINF:-1 tvg-id="SPOTV2" tvg-logo="", SPOTV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PcQLxarwmvixVyZGpFsSQg","kid":"WwpceCIxrwefuOHUPYkMHYBEMa2EYw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/spotv2
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-logo="", beIN SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XdhQfnpSSc6BysOA1Bwqw","kid":"WwpceCJkSLYIglPEQ+uU0ny3go9wNw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/beinsports
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-logo="", beIN SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"WwpceCJl+m/xrO+kMEjot63CHZiHMQ"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/beinsports2
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="", beIN SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ynZKmXO2EjoREs/9OzIBDQ","kid":"WwpceCI4Fu4vfBn0nthCdvNFQbRlYg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/beinsports3
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4" tvg-logo="", beIN SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K2z/Qvf65+i8MvPVxi3Dwg","kid":"WwpceCJkVh/5djl0c+m0VrRM3/zdMg"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+https://drums-compliant-geo-cup.trycloudflare.com/beinsports4
